@@ -6,7 +6,6 @@ const Wrapper: React.FC<WrapperProps> = ({ children }): JSX.Element => {
 	return (
 		<>
 			<Meta />
-
 			{children}
 		</>
 	);
