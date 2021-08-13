@@ -46,11 +46,10 @@ const Meta: React.FC<MetaProps> = ({
 );
 
 Meta.defaultProps = {
-	title: "ADVICE",
-	keywords:
-		"uct, student, virtual advisor, student advisor, university, advice",
-	description: "Your virtual student advisor.",
-	image: "https://a.storyblok.com/f/114267/434x430/7554e09fc7/advice-logo.png",
+	title: "Next.js Boilerplate",
+	keywords: "next.js",
+	description: "Clean Next.js with TypeScript and Sass Boilerplate with Yarn",
+	image: "https://unsplash.it/1000",
 	url: BASE_URL,
 };
 
