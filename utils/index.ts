@@ -1,3 +1,2 @@
-export const logger = () => {
-	console.log("log");
-};
+export const BASE_URL =
+	process.env.NODE_ENV === "production" ? "" : "http://localhost:3000";
