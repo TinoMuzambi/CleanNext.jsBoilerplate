@@ -8,14 +8,14 @@
 	},
 	"dependencies": {
 		"next": "latest",
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2"
+		"react": "latest",
+		"react-dom": "latest"
 	},
 	"devDependencies": {
-		"@types/node": "^12.12.21",
-		"@types/react": "^17.0.2",
-		"@types/react-dom": "^17.0.1",
-		"sass": "^1.37.5",
+		"@types/node": "latest",
+		"@types/react": "latest",
+		"@types/react-dom": "latest",
+		"sass": "latest",
 		"typescript": "latest"
 	},
 	"license": "MIT"
