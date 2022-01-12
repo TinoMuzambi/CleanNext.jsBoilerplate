@@ -3,13 +3,7 @@ import Head from "next/head";
 import { MetaProps } from "../interfaces";
 import { BASE_URL } from "../utils";
 
-const Meta: React.FC<MetaProps> = ({
-	title,
-	description,
-	keywords,
-	url,
-	image,
-}): JSX.Element => (
+const Meta = ({ title, description, keywords, url, image }) => (
 	<Head>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="theme-color" content="#000000" />
