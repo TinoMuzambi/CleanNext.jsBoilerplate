@@ -1,4 +1,4 @@
-# Clean Next.js with TypeScript Boilerplate with Yarn
+# Clean Next.js with TypeScript Boilerplate
 
 ## Usage
 
