@@ -41,6 +41,7 @@ const Meta: React.FC<MetaProps> = ({
 		<link rel="manifest" href="/manifest.json" />
 		<title>{title}</title>
 
+		{/* Add your preconnect links here  */}
 		<link rel="preconnect" href="https://a.storyblok.com" />
 	</Head>
 );
