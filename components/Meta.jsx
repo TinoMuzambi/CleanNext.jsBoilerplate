@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import { MetaProps } from "../interfaces";
 import { BASE_URL } from "../utils";
 
 const Meta = ({ title, description, keywords, url, image }) => (
