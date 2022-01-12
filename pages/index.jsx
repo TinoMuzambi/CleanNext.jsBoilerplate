@@ -1,4 +1,4 @@
-const Home: React.FC = (): JSX.Element => {
+const Home = () => {
 	return (
 		<main>
 			<p>Clean Next.js with TypeScript and Sass Boilerplate</p>
