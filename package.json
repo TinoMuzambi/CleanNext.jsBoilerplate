@@ -10,5 +10,8 @@
 		"react": "latest",
 		"react-dom": "latest"
 	},
+	"devDependencies": {
+		"sass": "latest"
+	},
 	"license": "MIT"
 }
