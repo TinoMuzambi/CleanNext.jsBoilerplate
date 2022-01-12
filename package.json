@@ -3,20 +3,12 @@
 	"scripts": {
 		"dev": "next",
 		"build": "next build",
-		"start": "next start",
-		"type-check": "tsc"
+		"start": "next start"
 	},
 	"dependencies": {
 		"next": "latest",
 		"react": "latest",
 		"react-dom": "latest"
-	},
-	"devDependencies": {
-		"@types/node": "latest",
-		"@types/react": "latest",
-		"@types/react-dom": "latest",
-		"sass": "latest",
-		"typescript": "latest"
 	},
 	"license": "MIT"
 }
