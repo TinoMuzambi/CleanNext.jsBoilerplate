@@ -15,7 +15,6 @@
 		"@types/node": "latest",
 		"@types/react": "latest",
 		"@types/react-dom": "latest",
-		"sass": "latest",
 		"typescript": "latest"
 	},
 	"license": "MIT"
