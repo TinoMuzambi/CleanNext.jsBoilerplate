@@ -2,7 +2,6 @@ import { AppProps } from "next/app";
 import { useEffect } from "react";
 
 import Wrapper from "../components/Wrapper";
-import "../sass/App.scss";
 
 const MyApp: Function = ({ Component, pageProps }: AppProps) => {
 	useEffect(() => {
