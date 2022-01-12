@@ -1,10 +1,9 @@
-# Clean Next.js with TypeScript and Sass Boilerplate with Yarn
-
-## Your README here.
+# Clean Next.js with TypeScript Boilerplate with Yarn
 
 ## Usage
 
-1. `git clone https://github.com/TinoMuzambi/CleanNext.jsTSBoilerplate .`
-2. `rm -rf .git`
-3. `git init`
-4. `yarn`
+1. Make sure you're on the `with-typescript` branch.
+2. `git clone https://github.com/TinoMuzambi/CleanNext.jsTSBoilerplate .`
+3. `rm -rf .git`
+4. `git init`
+5. `yarn`
