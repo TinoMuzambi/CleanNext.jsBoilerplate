@@ -41,6 +41,7 @@ const Meta: React.FC<MetaProps> = ({
 		<link rel="manifest" href="/manifest.json" />
 		<title>{title}</title>
 
+		{/* Add your preconnect links here */}
 		<link rel="preconnect" href="https://a.storyblok.com" />
 	</Head>
 );
@@ -48,7 +49,7 @@ const Meta: React.FC<MetaProps> = ({
 Meta.defaultProps = {
 	title: "Next.js Boilerplate",
 	keywords: "next.js",
-	description: "Clean Next.js with TypeScript and Sass Boilerplate with Yarn",
+	description: "Clean Next.js with TypeScript Boilerplate with Yarn",
 	image: "https://unsplash.it/1000",
 	url: BASE_URL,
 };
