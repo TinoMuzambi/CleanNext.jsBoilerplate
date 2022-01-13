@@ -1,8 +1,7 @@
-# Clean Next.js Boilerplate with Yarn
+# Clean Next.js Boilerplates
 
-## Usage
+This repo is a container for various Next.js boilerplates with different functionality tacked on with box JavaScript and TypeScript. To use a specific combination, clone the repo switch to that branch then follow the instructions in that README.
 
-1. `git clone https://github.com/TinoMuzambi/CleanNext.jsBoilerplate .`
-2. `rm -rf .git`
-3. `git init`
-4. `yarn`
+## Available Branches
+
+1.
