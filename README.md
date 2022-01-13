@@ -1,4 +1,4 @@
-# Clean Next.js with TypeScript and MongoDB Boilerplate with Yarn
+# Clean Next.js with TypeScript and MongoDB Boilerplate
 
 ## Usage
 
