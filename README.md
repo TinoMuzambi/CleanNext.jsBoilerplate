@@ -1,4 +1,4 @@
-# Clean Next.js with JavaScript Boilerplate
+# Clean Next.js with JavaScript and MongoDB Boilerplate
 
 ## Usage
 
