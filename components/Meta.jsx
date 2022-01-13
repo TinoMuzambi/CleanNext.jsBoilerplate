@@ -42,7 +42,7 @@ const Meta = ({ title, description, keywords, url, image }) => (
 Meta.defaultProps = {
 	title: "Next.js Boilerplate",
 	keywords: "next.js",
-	description: "Clean Next.js Boilerplate with JavaScript",
+	description: "Clean Next.js Boilerplate with JavaScript and MongoDB",
 	image: "https://unsplash.it/1000",
 	url: BASE_URL,
 };
