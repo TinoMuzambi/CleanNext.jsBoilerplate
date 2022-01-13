@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 
 import Wrapper from "../components/Wrapper";
+import "../sass/App.scss";
 
 const MyApp = ({ Component, pageProps }) => {
 	useEffect(() => {
