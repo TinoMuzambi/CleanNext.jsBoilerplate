@@ -7,15 +7,17 @@
 		"type-check": "tsc"
 	},
 	"dependencies": {
+		"mongoose": "latest",
 		"next": "latest",
 		"react": "latest",
-		"mongoose": "latest",
 		"react-dom": "latest"
 	},
 	"devDependencies": {
 		"@types/node": "latest",
 		"@types/react": "latest",
 		"@types/react-dom": "latest",
+		"eslint": "8.11.0",
+		"eslint-config-next": "12.1.0",
 		"typescript": "latest"
 	},
 	"license": "MIT"
