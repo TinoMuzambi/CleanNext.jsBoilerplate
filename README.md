@@ -29,3 +29,6 @@ All branches fetch the latest dependencies and include a dummy api route. All th
 
 8. **with-typescript-sass-mongodb**
    A TypeScript Next.js boilerplate which is an amalgamation of the `with-typescript-mongodb` and `with-typescript-sass` branches.
+
+9. **with-eslint**
+   There are `with eslint` versions of all the boilerplates above. Just add `with-eslint` to the branch name to get the respective branches.
