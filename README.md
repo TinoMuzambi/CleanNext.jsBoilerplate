@@ -31,4 +31,4 @@ All branches fetch the latest dependencies and include a dummy api route. All th
    A TypeScript Next.js boilerplate which is an amalgamation of the `with-typescript-mongodb` and `with-typescript-sass` branches.
 
 9. **with-eslint**
-   There are `with eslint` versions of all the boilerplates above. Just add `-eslint` to the branch name to get the respective branches.
+   There are `with eslint` versions of all the boilerplates above. These branches just have a stock eslint configuration obtained by running `npx next lint` and choosing the `strict` option. Just add `-eslint` to the branch name to get the respective branches.
