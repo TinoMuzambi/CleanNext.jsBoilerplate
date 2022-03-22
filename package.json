@@ -11,6 +11,8 @@
 		"react-dom": "latest"
 	},
 	"devDependencies": {
+		"eslint": "8.11.0",
+		"eslint-config-next": "12.1.0",
 		"sass": "latest"
 	},
 	"license": "MIT"
