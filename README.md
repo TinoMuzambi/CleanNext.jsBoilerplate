@@ -1,6 +1,6 @@
 # Clean Next.js Boilerplates
 
-This repo is a container for various Next.js boilerplates with different functionality tacked on with box JavaScript and TypeScript. To use a specific combination, clone the repo then switch to that branch then follow the instructions in that README.
+This repo is a container for various Next.js boilerplates with different functionality tacked on with both JavaScript and TypeScript. To use a specific combination, clone the repo then switch to that branch then follow the instructions in that README.
 
 All branches fetch the latest dependencies and include a dummy api route. All the branches also include a Meta component as well as a manifest.json for easily setting the metadata for your site. Lastly, all the branches disable the dev tools in production.
 
