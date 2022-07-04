@@ -32,3 +32,6 @@ All branches fetch the latest dependencies and include a dummy api route. All th
 
 9. **with-eslint**
    There are `with eslint` versions of all the boilerplates above. These branches just have a stock eslint configuration obtained by running `npx next lint` and choosing the `strict` option. Just add `-eslint` to the branch name to get the respective branches.
+
+10. **with-context**
+    There are `with-context` versions of all the boilerplates above which have a stock Context API config. Just add `-context` to the branch name to get the respective branches.
