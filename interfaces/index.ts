@@ -9,3 +9,15 @@ export interface MetaProps {
 	url?: string;
 	image?: string;
 }
+
+export interface ContextProps {}
+
+export interface AppProviderProps {
+	children: JSX.Element[] | JSX.Element;
+}
+
+export type State = {};
+
+export type Actions = {
+	type: "";
+};
